@@ -1,4 +1,4 @@
-<img align="center" src=https://user-images.githubusercontent.com/80879214/127741178-f4eb4ef2-45b2-4fa4-8cc8-6e65428aca55.JPG width=900 height=300>
+<img align="center" src=https://user-images.githubusercontent.com/80879214/127741178-f4eb4ef2-45b2-4fa4-8cc8-6e65428aca55.JPG width=700 height=400>
 <br/>
 
 ## Thank you for visiting me 👋 👨🏻‍💻          
